@@ -136,15 +136,15 @@ Backend understanding
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolaT24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolaT24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=NikolaT24&theme=tokyonight&hide_border=true&background=00000000"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=NikolaT24&theme=tokyonight&hide_border=true&background=00000000"/>
 
 </div>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaT24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaT24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&cache_seconds=1800"/>
 
 </div>
 
