@@ -126,10 +126,9 @@ Backend understanding
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikolaT24&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikolaT24&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&size_weight=0.5&count_weight=0.5"/>
 
 </div>
-
 ---
 
 # 📈 GitHub Overview
