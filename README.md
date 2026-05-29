@@ -208,6 +208,10 @@ Backend understanding
 <img src="https://img.icons8.com/fluency/96/gmail-new.png" height="48"/>
 </a>
 
+<a href="www.linkedin.com/in/nikola-topalov">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+
 </div>
 
 ---
