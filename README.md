@@ -126,7 +126,7 @@ Backend understanding
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaT24&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikolaT24&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
