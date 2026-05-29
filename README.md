@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nikola%20Topalov&fontAlign=50&fontAlignY=40&color=gradient&customColorList=12,20,24,30&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Nikola%20Topalov&desc=Software%20Engineering%20Student&fontAlign=50&fontAlignY=38&descAlign=50&descAlignY=58&color=gradient&customColorList=12,20,24,30&fontColor=ffffff&descSize=22&animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Tech-Savvy+Administrator;Operations+%26+Process+Coordinator;Bridging+Technology+%26+Management;Turning+Chaos+Into+Structure;Efficiency+Built+Into+Every+System" />
 
