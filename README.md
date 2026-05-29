@@ -141,14 +141,6 @@ Backend understanding
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img height="220em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikolaT24&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
-
 ---
 
 <div align="center">
