@@ -196,8 +196,8 @@ Backend understanding
 
 <div align="center">
 
-<a href="https://github.com/NikolaT24">
-<img src="https://skillicons.dev/icons?i=github" height="48" />
+<a href="https://www.facebook.com/nikola.topalov.54">
+<img src="https://img.icons8.com/fluency/96/facebook-new.png" height="48"/>
 </a>
 
 <a href="https://instagram.com/t0palov">
