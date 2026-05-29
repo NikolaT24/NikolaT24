@@ -22,9 +22,9 @@
 class NikolaTopalov {
     public:
 
-        string location = "Bulgaria";
-        string currentFocus = "Full Stack Development";
-        string hobbies[3] = {"Coding", "Automation", "Learning New Tech"};
+        string location = "Sofia, Bulgaria";
+        string currentFocus = "Trying to graduate";
+        string hobbies[3] = {"Coding (sort of)", "Automation", "Learning New Tech"};
 
         void lifeMotto() {
             cout << "Build things people remember.";
