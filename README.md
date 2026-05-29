@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## GitHub Followers
+<a href="https://www.github.com/NikolaT24" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/NikolaT24?logo=github&style=for-the-badge&color=ef4444&labelColor=000000" /></a>
+
 ## 📊 GitHub Stats 🧠 Top Languages GitHub Stats
 
   <p align="center">
