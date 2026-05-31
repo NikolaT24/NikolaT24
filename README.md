@@ -129,6 +129,7 @@ Backend understanding
 <img height="250em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NikolaT24&theme=tokyonight&hide_border=true&langs_count=7&layout=donut"/>
 
 </div>
+
 ---
 
 # 📈 GitHub Overview
