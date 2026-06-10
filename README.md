@@ -162,7 +162,7 @@ Backend understanding
 
 ---
 
-# 📊 Activity Matrix
+# 📊 Activity Diagram
 
 <div align="center">
 
