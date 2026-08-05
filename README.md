@@ -106,17 +106,17 @@ Backend understanding
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,php,mysql,html,css,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,php,mysql,html,css,git,github,vscode&theme=dark" alt="Technology stack" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Microsoft%20Office-Professional-a855f7?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Office-Professional-a855f7?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="Microsoft Office" />
 
-<img src="https://img.shields.io/badge/Data%20Organization-Advanced-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data%20Organization-Advanced-a855f7?style=for-the-badge" alt="Data organization" />
 
-<img src="https://img.shields.io/badge/Workflow%20Management-Optimized-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Workflow%20Management-Optimized-a855f7?style=for-the-badge" alt="Workflow management" />
 
-<img src="https://img.shields.io/badge/Problem%20Solving-Strategic-a855f7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Problem%20Solving-Strategic-a855f7?style=for-the-badge" alt="Problem solving" />
 
 </div>
 
@@ -126,7 +126,7 @@ Backend understanding
 
 <div align="center">
 
-<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaT24&theme=tokyonight&hide_border=true&langs_count=7&layout=donut"/>
+<img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaT24&theme=tokyonight&hide_border=true&langs_count=7&layout=donut" alt="Most used programming languages" />
 
 </div>
 
@@ -136,9 +136,7 @@ Backend understanding
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=NikolaT24&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NikolaT24&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=NikolaT24&show_icons=true&theme=tokyonight&hide_border=true" alt="Nikola Topalov's GitHub statistics" />
 
 </div>
 
@@ -146,17 +144,7 @@ Backend understanding
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NikolaT24/NikolaT24/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
----
-
-# 🌌 Workflow Energy
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NikolaT24&theme=tokyonight" width="100%" />
+<img src="https://raw.githubusercontent.com/NikolaT24/NikolaT24/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -166,7 +154,7 @@ Backend understanding
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikolaT24&theme=tokyo-night&hide_border=true&bg_color=00000000&line=a855f7&point=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NikolaT24&theme=tokyo-night&hide_border=true&bg_color=00000000&line=a855f7&point=ffffff" width="100%" alt="GitHub activity graph" />
 
 </div>
 
